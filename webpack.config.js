@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-    entry: "./src/App.js",
+    entry: "./src/Entry.js",
     output: {
         publicPath: './dist/',
         filename: "tfc-signup.js",
